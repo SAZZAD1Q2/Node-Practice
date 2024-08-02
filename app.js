@@ -1,9 +1,6 @@
-const Raza = 'Raza';
-const Shaikh = 'Shaikh';
-
 const Hello = (name) => {
-    console.log(`Hello ${name}`);
-}
+    return (`helppplo ${name}`)
+};
 
-Hello(Raza)
-console.log(__dirname)
+// Log the return vale of the function
+console.log(Hello('sazzad'));
