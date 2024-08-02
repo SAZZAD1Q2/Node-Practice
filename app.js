@@ -6,3 +6,4 @@ const Hello = (name) => {
 }
 
 Hello(Raza)
+console.log(__dirname)
